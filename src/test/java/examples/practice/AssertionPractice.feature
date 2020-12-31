@@ -20,3 +20,6 @@ Feature: Practice Assertions The karate way
     #assert the nam is Tucky, last number is 54
     * assert myJson.name == 'Tucky'
     * assert myJson.nums[2] == 54
+
+
+#http://52.201.187.226:8000/spartans
